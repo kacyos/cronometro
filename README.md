@@ -1,0 +1,3 @@
+#Cronômetro
+
+![Cronômetro](cronometro.gif)
